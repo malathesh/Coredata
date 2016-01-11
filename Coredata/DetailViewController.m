@@ -14,8 +14,6 @@
 @end
 
 @implementation DetailViewController
-
-//I have added the hole project in git
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
